@@ -207,7 +207,27 @@ This repository contains the Python analysis and supporting visual evidence from
 The project demonstrates an end-to-end analytical workflow:
 
 **Data Cleaning → Feature Engineering → Exploratory Data Analysis → Statistical Analysis → Regression → Power BI → Business Insights → Recommendations**
+## Power BI Dashboard
 
+### Executive Overview
+
+![Executive Overview](dashboards/executive_overview.png)
+
+### Customer Analysis
+
+![Customer Analysis](dashboards/customer_analysis.png)
+
+### Product Analysis
+
+![Product Analysis](dashboards/product_analysis.png)
+
+### Regional Analysis
+
+![Regional Analysis](dashboards/regional_analysis.png)
+
+### Profitability & Discount Analysis
+
+![Profitability & Discount Analysis](dashboards/profitability_discount_analysis.png)
 ---
 
 ## Project Structure
