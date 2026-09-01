@@ -207,6 +207,7 @@ This repository contains the Python analysis and supporting visual evidence from
 The project demonstrates an end-to-end analytical workflow:
 
 **Data Cleaning → Feature Engineering → Exploratory Data Analysis → Statistical Analysis → Regression → Power BI → Business Insights → Recommendations**
+
 ## Power BI Dashboard
 
 ### Executive Overview
@@ -229,6 +230,16 @@ The project demonstrates an end-to-end analytical workflow:
 
 ![Profitability & Discount Analysis](dashboards/profitability_discount_analysis.png)
 ---
+## Project Files
+
+* **Python Analysis Notebook** — [View the complete Python analysis](notebooks/superstore_sales_profitability_analysis.ipynb)
+* **Power BI Dashboard** — [View the Power BI report](superstore_sales_profitability_analysis.pbix)
+* **Dashboard Screenshots** — [View all dashboard pages](dashboards/)
+
+## Analytical Workflow
+
+**Original Dataset → Data Cleaning → Exploratory Data Analysis → Statistical Analysis → OLS Regression → Cleaned Dataset → Power BI Data Modelling → DAX Measures → Interactive Dashboard → Business Insights & Recommendations**
+
 
 ## Project Structure
 
