@@ -8,6 +8,29 @@ The project combines data cleaning, exploratory data analysis, statistical analy
 
 ---
 
+## Table of Contents
+
+* [Project Overview](#project-overview)
+* [Business Objective](#business-objective)
+* [Dataset & Data Preparation](#dataset--data-preparation)
+* [Tools & Technologies](#tools--technologies)
+* [Analytical Approach](#analytical-approach)
+
+  * [Python Analysis](#python-analysis)
+  * [Power BI Analysis](#power-bi-analysis)
+* [Key Business Metrics](#key-business-metrics)
+* [Key Findings](#key-findings)
+* [Key Business Conclusions](#key-business-conclusions)
+* [Business Recommendations](#business-recommendations)
+* [Statistical Analysis](#statistical-analysis)
+* [Portfolio Evidence](#portfolio-evidence)
+* [Project Files](#project-files)
+* [Analytical Workflow](#analytical-workflow)
+* [Acknowledgements](#acknowledgements)
+* [Author](#author)
+
+---
+
 ## Business Objective
 
 The objective of this project was to understand:
@@ -229,7 +252,9 @@ The project demonstrates an end-to-end analytical workflow:
 ### Profitability & Discount Analysis
 
 ![Profitability & Discount Analysis](dashboards/profitability_discount_analysis.png)
+
 ---
+
 ## Project Files
 
 * **Python Analysis Notebook** — [View the complete Python analysis](notebooks/superstore_sales_profitability_analysis.ipynb)
@@ -269,3 +294,15 @@ superstore-sales-profitability-analysis/
 **Quadri Akanbi Olahassan**
 
 **Petroleum Engineer | Data Analytics | Transitioning into Machine Learning**
+
+---
+
+## Acknowledgements
+
+This project was developed as part of my ongoing data analytics and machine learning journey.
+
+The analysis uses the **Sample Superstore dataset**, a widely used practice dataset for exploring sales, profitability, customer, product, and regional business performance.
+
+I acknowledge the original dataset source and the broader data analytics learning community for providing resources and examples that supported the development of this project.
+
+All analysis, data preparation, statistical analysis, Power BI modelling, DAX measures, dashboard development, business conclusions, and recommendations presented in this repository were independently performed as part of this portfolio project.
