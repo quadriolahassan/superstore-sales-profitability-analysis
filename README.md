@@ -268,4 +268,4 @@ superstore-sales-profitability-analysis/
 
 **Quadri Akanbi Olahassan**
 
-**Data Analyst | Transitioning into Machine Learning**
+**Petroleum Engineer | Data Analytics | Transitioning into Machine Learning**
